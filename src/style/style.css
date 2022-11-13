@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+  }
+/*  
+body {
+    width: 600px;
+    height: 300px;
+    -webkit-flex-direction:column; 
+    display: flex;
+    flex-direction: column;
+    margin:auto;  
+} */
+
+  .input {
+    border: #141111;
+    border-radius:10px;
+    width: 280px;
+    height: 30px;
+  }
+
+  .shuru{
+    width: 300px;
+    height: 200px;
+    background-color: gray;
+    margin: auto;
+    border-radius: 10px;
+  }
+  
+  .pinglun{
+    width: 300px;
+    height: 100px;
+    background-color:beige;
+    margin: auto;
+    border-radius: 10px;
+  }
+
+  .submit{
+    width:40px;
+
+    background-color: black;
+    color: floralwhite;
+    border-radius: 5px;
+    position: relative;
+    left: 250px;
+  }
+
+  .submit1{
+    background-color: black;
+    color: floralwhite;
+    border-radius: 5px;
+    position: relative;
+    left: 250px;
+    
+
+  }
+
+  .username{
+    margin-top: 200px;
+  }
+  
